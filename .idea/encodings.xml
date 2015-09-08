@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/team/nobugs/powerfulmvp/core/remote/GsonGetRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/team/nobugs/powerfulmvp/core/remote/GsonPostRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/team/nobugs/powerfulmvp/core/remote/OkHttpStack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/team/nobugs/powerfulmvp/core/remote/phraser/HttpObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/team/nobugs/powerfulmvp/core/remote/phraser/HttpObjectDeserializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/team/nobugs/powerfulmvp/core/remote/utils/OkVolleyUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/team/nobugs/powerfulmvp/core/remote/utils/RequestFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/team/nobugs/powerfulmvp/core/remote/utils/Utils.java" charset="UTF-8" />
+  </component>
+</project>
